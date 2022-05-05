@@ -1,4 +1,4 @@
-# government-tourism-data-opening_score-
+# government-tourism-data-opening_score
 
 使用方法：
 若页面顶端指标按钮亮起呈现彩色，则下方地图显示各个省级行政区在这个指标的得分。 
